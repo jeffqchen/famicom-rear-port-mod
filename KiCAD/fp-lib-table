@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name FC_Rear_Port_Footprint)(type KiCad)(uri ${KIPRJMOD}/FC_Rear_Port_Footprint.pretty)(options "")(descr ""))
+)
