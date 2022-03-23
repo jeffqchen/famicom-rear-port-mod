@@ -8,26 +8,24 @@ To keep the original appearance with the controllers, you can replace the long w
 
 2P microphone pin is populated on an N/C pin, if you want to use it, get a 7-pin zapper extension cord instead (pricier).
 
-==================  
-PCB can be ordered from OSHPark:  
-1P  
-https://oshpark.com/shared_projects/gRNN75yp
+-----------
+## Parts
 
-2P  
-https://oshpark.com/shared_projects/Hxw588oo
+- PCB
+  - [1P](https://oshpark.com/shared_projects/gRNN75yp)
+  - [2P](https://oshpark.com/shared_projects/Hxw588oo)
 
-Pins and wire can be ordered from DigiKey:  
-Part No.: ED1183-ND  
-Name: CONN PC PIN CIRC 0.040DIA GOLD by Mill-Max Manufacturing Corp.
 
-Part No.: HF06S-5-ND  
-Name: CBL RIBN 6COND 0.039 GRAY 5M
+- [22x or 28x] Terminal Pins, Male, Machined - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Terminal%20Pins/Machined%20Male/info.md)
 
-Screws were from Amazon:  
-M3 Hex Socket Head Cap Screws/Nuts Kit
+- 6-Conductor Ribbon Cable - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/Cables/Ribbon%20Cable/6-Conductor/info.md)
 
-====================  
-Prints:  
+- M3 Hex Socket Head Cap Screws/Nuts Kit - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
+
+
+-----------
+## Assembly
+
 - You may need to file/cut/drill away any inaccuracies in order to fit the parts together correctly.
 
 Soldering demonstration included in pictures.  
